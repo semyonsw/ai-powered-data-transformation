@@ -14,7 +14,6 @@ This project implements an intelligent data transformation system that leverages
 
 ## Project Structure
 
-```
 data_transformer/
 │
 ├── transforms/         # Data transformation implementations
@@ -29,7 +28,6 @@ data_transformer/
 │   └── validator.py
 │
 └── main.py             # Main execution script
-```
 
 ## Installation
 
